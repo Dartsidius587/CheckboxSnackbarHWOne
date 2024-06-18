@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">checkboxSnackbarHWOne</string>
+    <string name="inputText">Введите текст</string>
+    <string name="result"> </string>
+    <string name="delete">Удалить данные</string>
+    <string name="save">Сохранить данные</string>
+</resources>
