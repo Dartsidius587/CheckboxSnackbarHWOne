@@ -16,9 +16,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var inputTextET: EditText
     private lateinit var resultTV: TextView
 
-    private lateinit var buttonSaveBTN: Button
-    private lateinit var buttonDeleteBTN: Button
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
